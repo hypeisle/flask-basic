@@ -6,3 +6,6 @@ template based and basic flask data updates and GET, POST tasks.
 - read
 - update
 - delete
+
+Find out more here.
+https://flask.palletsprojects.com/en/3.0.x/
